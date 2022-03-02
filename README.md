@@ -1,5 +1,5 @@
 # FPIF
-F-Fucking
-P-Putin
-I-Is
-F-Fun
+Fucking<br>
+Putin<br>
+Is<br>
+Fun
